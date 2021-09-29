@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Анна Тикунова](https://up.htmlacademy.ru/htmlcss/32/user/1908817).
-* Наставник: `Неизвестно`.
+* Наставник: [Алёна Сиприкова] (https://htmlacademy.ru/profile/asiprikova).
 
 ---
 
